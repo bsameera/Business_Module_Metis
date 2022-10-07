@@ -1,12 +1,12 @@
 # Metis_Business_Module
 
-Business
+## Business
 
-Proposal to analyze data of a bank –
+## Proposal to analyze data of a bank –
 
 
 
-Introduction 
+### Introduction 
 
     The project is about the reduction of churn rate of credit card customers of a 150-year-old bank called Wells Fargo.
     According to Gary W. Class, senior vice president for Wells Fargo, it pays to know the customer’s channel preferences, and to predict which products they might need.
@@ -14,13 +14,13 @@ Introduction
 
 
 
-Impact Hypothesis
+### Impact Hypothesis
 
 The desired business impact is to reduce customer loss and reduce the monetary loss of the bank.
 
 
 
-Data
+### Data
 
 The data was taken from Kaggle- https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 
@@ -28,7 +28,7 @@ It has information about 10,000 customers and 22 attributes.
 
 
 
-Solutions
+### Solutions
 
 •	The process included data cleaning and analysis.
 
@@ -42,7 +42,7 @@ Solutions
 
 
 
-Tools
+### Tools
 
 •	Google Sheets – 
   link - https://docs.google.com/spreadsheets/d/1M9Xt0ju4m2csnk5z0Sb3UDeE0viBTRsXgmRulhObzJk/edit?usp=sharing
