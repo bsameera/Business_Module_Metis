@@ -2,7 +2,7 @@
 
 ## Business
 
-## Proposal to analyze data of a bank –
+## Proposal to analyze the data of a bank –
 
 
 
